@@ -6,7 +6,9 @@ public class Main {
 
         SalesManager Manager =new SalesManager(sales);
         {
-            System.out.println(Manager.max());
+            //System.out.println(Manager.max());
+            System.out.println(Manager.srednee());
+            //System.out.println(Manager.min());
 
         }
 
